@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏥 Doctors Appointment Platform
 
 A comprehensive full-stack healthcare appointment booking platform built with modern web technologies, featuring real-time video consultations, secure payment processing, and intuitive user management.
@@ -263,7 +264,6 @@ For support, email support@yourplatform.com or create an issue in this repositor
 
 ---
 
-⭐ **If you find this project helpful, please give it a star!** ⭐ll Stack Doctors Appointment Platform with Next JS, Neon, Tailwind, Vonage, Shadcn UI Tutorial 🔥🔥
-## https://www.youtube.com/watch?v=ID1PRFF1dlw
+⭐ **If you find this project helpful, please give it a star!** ⭐
 
 <img width="1470" alt="Screenshot 2025-05-27 at 1 18 06 PM" src="https://github.com/user-attachments/assets/a0d3d443-f5e1-433a-85a7-a76a3866858d" />
